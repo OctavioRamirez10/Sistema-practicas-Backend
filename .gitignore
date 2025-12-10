@@ -1,0 +1,8 @@
+oracleJdk-21/
+*.jar
+target/
+.mvn/
+mvnw
+mvnw.cmd
+oracleJdk-21/
+oracleJdk-21/
